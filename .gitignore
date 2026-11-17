@@ -1,0 +1,4 @@
+.env
+action_log*.json
+bot.log
+__pycache__/
